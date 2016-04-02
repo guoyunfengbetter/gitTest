@@ -1,3 +1,4 @@
 hi world!
 add test!
 add word!
+test merge！
