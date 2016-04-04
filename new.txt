@@ -2,3 +2,4 @@ hi world!
 add test!
 add word!
 add merge dev!
+test merge！
